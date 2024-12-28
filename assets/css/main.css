@@ -1083,10 +1083,6 @@ input, select, textarea {
 			font-weight: 600;
 		}
 
-		#registry{
-			text-align: center;
-		}
-
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
@@ -1662,4 +1658,8 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+		#registryForm{
+			text-align: center;
 		}
